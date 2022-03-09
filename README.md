@@ -26,9 +26,10 @@ Projeto criado para estudar sobre o Ionic, aprender as estruturas, e tambem os f
 Eu aprendi a desenvolver um Apps básico, chamado DADO. Nele, na minha opiniao doi dificil o desenvolvimento ao todo, a estrutura das coisas.
 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+## Habilidades Pessoais
+
+- Disciplinado
+- Esforçado
+- Prestativo 
 
 
