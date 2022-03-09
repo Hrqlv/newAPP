@@ -7,7 +7,7 @@ Meu nome é Henrique, tenho 17 anos. Estou cursando Técnico em Desenvolvimento 
 
 ## 🛠 Habilidades
 
-TYPESCRIPT, ANGULAR, HTML, CSS...
+TYPESCRIPT, ANGULAR, HTML, CSS, Linguagem C...
 
 
 ## Ionic - DADO
@@ -31,5 +31,6 @@ Eu aprendi a desenvolver um Apps básico, chamado DADO. Nele, na minha opiniao d
 - Disciplinado
 - Esforçado
 - Prestativo 
+
 
 
